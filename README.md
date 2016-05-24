@@ -1,9 +1,11 @@
 To run the script, just
+```
 $ python crawler.py
-
+```
 To run the tests:
+```
 $ python test.py
-
+```
 Dependencies:
 argparse==1.2.1
 hurry.filesize==0.9
